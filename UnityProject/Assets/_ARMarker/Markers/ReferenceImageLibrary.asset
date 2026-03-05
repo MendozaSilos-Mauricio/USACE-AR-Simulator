@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4678289194670295288
+  m_GuidHigh: 11138257543770018481
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5073627679463669828
+      m_GuidHigh: 9283027577529671343
+    m_SerializedTextureGuid:
+      m_GuidLow: 3050197835965199559
+      m_GuidHigh: 4894027647822718027
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ARWetlandsIcon
+    m_Texture: {fileID: 2800000, guid: 6b5ef4c77ac52a544be4694d3714eb43, type: 3}
