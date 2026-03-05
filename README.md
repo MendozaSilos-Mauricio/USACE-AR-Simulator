@@ -5,7 +5,7 @@
 
 This project is in partnership with the **University of Texas at Arlington (UTA)** and the **U.S. Army Corps of Engineers (USACE)**. 
 
-An interactive, marker-based Augmented Reality application developed for the USACE. This project serves as an educational exhibit designed to teach the public—targeting 10,000+ views—about the environmental impacts of stormwater runoff, pollution, and the critical importance of wetland conservation.
+An interactive, marker-based Augmented Reality application developed for the USACE. This project serves as an educational exhibit designed to teach the public about the environmental impacts of stormwater runoff, pollution, and the critical importance of wetland conservation, targeting 10,000+ views.
 
 *(Note: See the `/Documentation` folder for full engineering specifications).*
 
